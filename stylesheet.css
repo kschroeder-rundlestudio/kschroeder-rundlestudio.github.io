@@ -1,0 +1,9 @@
+html, body {
+  background-color: lightblue;
+}
+#content {
+  text-align: center;
+}
+h1, h2, p {
+  text-align: inherit;
+}
