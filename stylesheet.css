@@ -4,6 +4,7 @@ html, body {
 #content {
   text-align: center;
 }
-h1, h2, p {
+h1, h2, p, br {
   text-align: inherit;
+  line-height: 12px;
 }
