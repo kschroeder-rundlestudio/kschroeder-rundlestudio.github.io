@@ -1,10 +1,18 @@
 html, body {
-  background-color: lightblue;
+  background-color: grey;
 }
 #content {
+  font-family: monospace;
   text-align: center;
 }
-h1, h2, p, br {
+h1, h2, p, br, a {
+  font-family: inherit;
   text-align: inherit;
   line-height: 12px;
+}
+a {
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
 }
