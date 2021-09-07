@@ -1,14 +1,16 @@
 html, body {
-  background-color: grey;
+  background-color: black;
 }
 #content {
   font-family: monospace;
   text-align: center;
+  color: lime;
 }
 h1, h2, p, br, a {
   font-family: inherit;
   text-align: inherit;
   line-height: 12px;
+  color: inherit;
 }
 a {
   text-decoration: none;
